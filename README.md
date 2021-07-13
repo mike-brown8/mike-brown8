@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mike-brown8
-- 👀 I’m interested in progeamming
+- 👀 I’m interested in programming
 - 🌱 I’m a student in a middle school
 
 <!---
