@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mike-brown8
+- 👋 Hi, I’m Mike Brown
 - 👀 I’m interested in programming
 - 🌱 I’m a student in a middle school
 
