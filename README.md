@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike Brown
 - 👀 I’m interested in programming
-- 🌱 I’m a student in a middle school
+- 🌱 I’m a student
 
 <!---
 mike-brown8/mike-brown8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
